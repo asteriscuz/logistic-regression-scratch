@@ -7,3 +7,8 @@ Features:
 - Gradient descent optimization
 - Methods for training (fit), prediction (predict), and evaluation (score)
 - Benchmark against scikit-learn’s LogisticRegression
+
+Files: 
+│── logistic_regression.py       # Logistic Regression class implemented from scratch (NumPy)
+│── demo_breast_cancer.ipynb     # Jupyter Notebook demo: trains model, compares with sklearn, plots learning curve
+│── README.md                    # Project overview and usage instructions
