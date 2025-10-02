@@ -8,7 +8,8 @@ Features:
 - Methods for training (fit), prediction (predict), and evaluation (score)
 - Benchmark against scikit-learn’s LogisticRegression
 
-Files: 
-│── logistic_regression.py       # Logistic Regression class implemented from scratch (NumPy)
-│── demo_breast_cancer.ipynb     # Jupyter Notebook demo: trains model, compares with sklearn, plots learning curve
-│── README.md                    # Project overview and usage instructions
+## 📂 Project Files
+
+- **`logistic_regression.py`** → Contains the Logistic Regression class implemented from scratch using NumPy. Includes methods for `fit`, `predict`, `score`, and `predict_proba`.  
+- **`demo_breast_cancer.ipynb`** → Jupyter Notebook demo. Loads the Breast Cancer dataset, trains the custom model, compares accuracy with scikit-learn’s LogisticRegression, and plots the learning curve.  
+- **`README.md`** → Overview of the project, features, results, and instructions to run.  
